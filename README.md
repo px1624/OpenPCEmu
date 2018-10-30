@@ -1,26 +1,26 @@
-#OpenPCEmu
+# OpenPCEmu
 
 Helps you find an Open PC on your campus!
 
-##Prerequisites
+## Prerequisites
 
 Visual Studio
 
 
-##Contributing
+##C ontributing
 
 * Shan Lalani
 
-##Authors
+## Authors
 
 * Michael Xie
 * John Burns
 * Ethan Spangler
 
-##License
+## License
 
 This project is licensed under the MIT License
 
-##Acknowledgements
+## Acknowledgements
 
 This project is lit!
