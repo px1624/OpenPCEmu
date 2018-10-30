@@ -7,7 +7,7 @@ Helps you find an Open PC on your campus!
 Visual Studio
 
 
-##C ontributing
+## Contributing
 
 * Shan Lalani
 
